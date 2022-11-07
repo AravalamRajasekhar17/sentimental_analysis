@@ -6,4 +6,4 @@ nltk==3.5
 streamlit
 scipy
 wordcloud==1.8.1
-pickle
+pickle5
